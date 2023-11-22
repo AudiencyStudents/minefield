@@ -1,6 +1,6 @@
 # minefield
 
-### Oo do list from this project
+### To do list from this project
 ```
 [] - create layout header;
   [] - header with name, timer and optio dificulty;
