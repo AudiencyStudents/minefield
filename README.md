@@ -1,6 +1,7 @@
 # minefield
 
-### to do list from this project
+### Oo do list from this project
+```
 [] - create layout header;
   [] - header with name, timer and optio dificulty;
 [] - create layout board;
@@ -14,3 +15,5 @@
 [] - if the click in a number, to appear the number only;
 [] - count timer to final score;
 [] - inser songs from the game;
+```
+
